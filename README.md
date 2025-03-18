@@ -9,7 +9,8 @@ This is my **personal portfolio website** built using **HTML, CSS, and JavaScrip
 - **Secure & Scalable Hosting** – Hosted on **AWS S3** for high availability  
 
 ## 🌎 Live Demo
-🔗 [View Portfolio]([your-aws-s3-url-here](http://rajdeepportfolio.s3-website.us-east-2.amazonaws.com/))
+🔗 [View Portfolio](http://rajdeepportfolio.s3-website.us-east-2.amazonaws.com/)
+
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
